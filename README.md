@@ -62,8 +62,10 @@ body {font-family: Arial;}
   <button class="tablinks" onclick="openCity(event, 'waterpolo')">Waterpolo</button>
   <button class="tablinks" onclick="openCity(event, 'resumue')">Resumue</button>
   <button class="tablinks" onclick="openCity(event, 'contact')">Contact</button>
+  <button class="tablinks" onclick="openCity(event, 'coaches')">coaches contact</button>
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
 </div>
+
 
 
 <div id="waterpolo" class="tabcontent">
@@ -100,7 +102,9 @@ body {font-family: Arial;}
 
   </p>
 </div>
-
+    <div id="coaches" class="tabcontent">
+    <p>coaches information:</p>
+    </div>
 <div id="about" class="tabcontent">
   <h3>About the website</h3>
   <p>This website was coded by me, Ian Fry. I wanted to have a website where I could post waterpolo highlights, and other information. However I wanted to do it in an interesting way, so I decided to make code my own website using Html</p>
@@ -108,7 +112,11 @@ body {font-family: Arial;}
 
 <!-- below is the main needed stuff that i dont know much about, however i can put my needed information here as its below the tabs!-->
 <div class="bg">
-  <p>this is my website!<p/>
+  <p><p/>
+    
+    
+    
+    
 <script>
 function openCity(evt, cityName) {
   var i, tabcontent, tablinks;

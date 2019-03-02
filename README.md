@@ -34,6 +34,7 @@ body {font-family: Arial;}
   padding: 14px 16px;
   transition: 0.3s;
   font-size: 17px;
+  font-color:black;
 }
 /* Change background color of buttons on hover */
 .tab button:hover {

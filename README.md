@@ -71,7 +71,7 @@ body {font-family: Arial;}
   <p>Here is me at the 2018 junior Olymipc games<br/>Here are some of my game highlights:</p>
           
             <video width="320" height="240" controls>
-                <source src="steal.mp4" type="video/mp4"> 
+                <source src="github/steal.mp4" type="video/mp4"> 
               </video>
 </div>
 

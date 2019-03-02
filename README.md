@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -123,7 +123,4 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 </script>
-</div>
-   
-</body>
-</html> 
+

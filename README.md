@@ -105,13 +105,6 @@ body {font-family: Arial;}
     <div id="coaches" class="tabcontent">
     <h4>coaches information:</h4>
     
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-3057689751093806",
-    enable_page_level_ads: true
-  });
-</script>
     
     </div>
 <div id="about" class="tabcontent">
@@ -123,7 +116,13 @@ body {font-family: Arial;}
 <div class="bg">
   <p><p/>
     
-    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-3057689751093806",
+        enable_page_level_ads: true
+      });
+    </script>
     
     
 <script>

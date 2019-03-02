@@ -103,7 +103,16 @@ body {font-family: Arial;}
   </p>
 </div>
     <div id="coaches" class="tabcontent">
-    <p>coaches information:</p>
+    <h4>coaches information:</h4>
+    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3057689751093806",
+    enable_page_level_ads: true
+  });
+</script>
+    
     </div>
 <div id="about" class="tabcontent">
   <h3>About the website</h3>

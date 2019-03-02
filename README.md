@@ -77,7 +77,7 @@ body {font-family: Arial;}
 
 <div id="resumue" class="tabcontent">
   <h3>Here are my waterpolo acomplishments and events</h3>
-  <p>Paris is the capital of France.</p> 
+  <p></p> 
 </div>
 
 <div id="contact" class="tabcontent">

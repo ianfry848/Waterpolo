@@ -65,9 +65,6 @@ body {font-family: Arial;}
   <button class="tablinks" onclick="openCity(event, 'coaches')">coaches contact</button>
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
 </div>
-class hi{
-color: blue;
-}
 
 
 <div id="waterpolo" class="tabcontent">

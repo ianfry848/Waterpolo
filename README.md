@@ -26,7 +26,7 @@ body {font-family: Arial;}
 }
 /* Style the buttons inside the tab */
 .tab button {
-  background-color: blue;
+  background-color: white;
   float: left;
   border: none;
   outline: none;

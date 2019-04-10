@@ -22,7 +22,7 @@ body {font-family: Arial;}
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #F3411A;
+  background-color: #ccc;
 }
 /* Style the buttons inside the tab */
 .tab button {
@@ -38,7 +38,7 @@ body {font-family: Arial;}
 }
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #F3411A;
+  background-color: #ccc;
 }
 /* Create an active/current tablink class */
 .tab button.active {
@@ -140,4 +140,3 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 </script>
-

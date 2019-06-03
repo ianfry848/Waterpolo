@@ -61,7 +61,7 @@ body {font-family: Arial;}
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'waterpolo')">Waterpolo</button>
-    <button class="tablinks" onclick="openCity(event, 'Game video')">Game Video</button>
+  <button class="tablinks" onclick="openCity(event, 'Game video')">Game video</button>
   <button class="tablinks" onclick="openCity(event, 'resumue')">Resumue</button>
   <button class="tablinks" onclick="openCity(event, 'contact')">Contact</button>
   <button class="tablinks" onclick="openCity(event, 'coaches')">coaches contact</button>

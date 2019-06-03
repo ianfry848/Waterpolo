@@ -73,8 +73,6 @@ body {font-family: Arial;}
   <h3>Waterpolo</h3>
   <p>this is a waterpolo website that I have made</p>
   
-          
-            
 </div>
 <div id="Game video" class="tabcontent">
     <p>Here is me at the 2018 junior Olymipc games<br/>Here are some of my game highlights:</p>

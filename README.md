@@ -22,11 +22,11 @@ body {font-family: Arial;}
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #F3411A;
+  background-color: #ccc;
 }
 /* Style the buttons inside the tab */
 .tab button {
-  background-color: blue;
+  background-color: white;
   float: left;
   border: none;
   outline: none;
@@ -38,7 +38,7 @@ body {font-family: Arial;}
 }
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #F3411A;
+  background-color: #ccc;
 }
 /* Create an active/current tablink class */
 .tab button.active {
@@ -47,6 +47,7 @@ body {font-family: Arial;}
 /* Style the tab content */
 .tabcontent {
   display: none;
+  color: black;
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
@@ -65,9 +66,6 @@ body {font-family: Arial;}
   <button class="tablinks" onclick="openCity(event, 'coaches')">coaches contact</button>
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
 </div>
-class hi{
-color: blue;
-}
 
 
 <div id="waterpolo" class="tabcontent">
@@ -97,7 +95,7 @@ color: blue;
     <br/> 
     City: Falls Church
     <br/>
-      State: <span class "hi">Virginia</span>
+      State: Virginia
     <br/>
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24845.268559142238!2d-77.18982968260268!3d38.88605279807087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64b6e7a4663ad%3A0x6e536688973d9759!2sFalls+Church%2C+VA!5e0!3m2!1sen!2sus!4v1551505069642" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     
@@ -142,4 +140,3 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 </script>
-

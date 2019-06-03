@@ -61,6 +61,7 @@ body {font-family: Arial;}
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'waterpolo')">Waterpolo</button>
+    <button class="tablinks" onclick="openCity(event, 'Game video')">Game Video</button>
   <button class="tablinks" onclick="openCity(event, 'resumue')">Resumue</button>
   <button class="tablinks" onclick="openCity(event, 'contact')">Contact</button>
   <button class="tablinks" onclick="openCity(event, 'coaches')">coaches contact</button>
@@ -71,12 +72,16 @@ body {font-family: Arial;}
 <div id="waterpolo" class="tabcontent">
   <h3>Waterpolo</h3>
   <p>this is a waterpolo website that I have made</p>
-  <p>Here is me at the 2018 junior Olymipc games<br/>Here are some of my game highlights:</p>
+  
           
-            <video width="320" height="240" controls>
+            
+</div>
+<div id="waterpolo" class="tabcontent">
+    <p>Here is me at the 2018 junior Olymipc games<br/>Here are some of my game highlights:</p>
+    <video width="320" height="240" controls>
                 <source src="github/steal.mp4" type="video/mp4"> 
               </video>
-</div>
+ </div>
 
 <div id="resumue" class="tabcontent">
   <h3>Here are my waterpolo acomplishments and events</h3>

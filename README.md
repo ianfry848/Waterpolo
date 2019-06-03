@@ -76,7 +76,7 @@ body {font-family: Arial;}
           
             
 </div>
-<div id="waterpolo" class="tabcontent">
+<div id="Game video" class="tabcontent">
     <p>Here is me at the 2018 junior Olymipc games<br/>Here are some of my game highlights:</p>
     <video width="320" height="240" controls>
                 <source src="github/steal.mp4" type="video/mp4"> 

@@ -56,15 +56,15 @@ body {font-family: Arial;}
 </head>
 <body>
 
-<h2>Ian's waterpolo information</h2>
-<!--<p>Click on the buttons inside the tabbed menu:</p>-->
+<h2>Ian's Waterpolo Information</h2>
+
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'waterpolo')">Waterpolo</button>
+  <button class="tablinks" onclick="openCity(event, 'Waterpolo')">Waterpolo</button>
   <button class="tablinks" onclick="openCity(event, 'Game video')">Game video</button>
   <button class="tablinks" onclick="openCity(event, 'resumue')">Resumue</button>
   <button class="tablinks" onclick="openCity(event, 'contact')">Contact</button>
-  <button class="tablinks" onclick="openCity(event, 'coaches')">coaches contact</button>
+  <button class="tablinks" onclick="openCity(event, 'coaches')">Coaches Contact</button>
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
 </div>
 
@@ -117,16 +117,8 @@ body {font-family: Arial;}
 
 <!-- below is the main needed stuff that i dont know much about, however i can put my needed information here as its below the tabs!-->
 <div class="bg">
-  <p><p/>
-    
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-3057689751093806",
-        enable_page_level_ads: true
-      });
-    </script>
-    
+ 
+
     
 <script>
 function openCity(evt, cityName) {

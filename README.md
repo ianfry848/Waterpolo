@@ -80,6 +80,9 @@ body {font-family: Arial;}
     <video width="320" height="240" controls>
                 <source src="github/steal.mp4" type="video/mp4"> 
               </video>
+    <video width="320" height="240" controls>
+                <source src="github/shots.mp4" type="video/mp4"> 
+              </video>
  </div>
 
 <div id="resumue" class="tabcontent">

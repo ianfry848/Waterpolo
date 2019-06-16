@@ -69,7 +69,7 @@ body {font-family: Arial;}
 </div>
 
 
-<div id="waterpolo" class="tabcontent">
+<div id="Waterpolo" class="tabcontent">
   <h3>Waterpolo</h3>
   <p>this is a waterpolo website that I have made</p>
   

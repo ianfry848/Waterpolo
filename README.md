@@ -76,7 +76,7 @@ body {font-family: Arial;}
   
 </div>
 <div id="Game video" class="tabcontent">
-    <p>Here is me at the 2018 junior Olymipc games<br/>Here are some of my game highlights:</p>
+    <p>Here is video of me at the 2018 Junior Olympic games<br/>Here are some of my game highlights:</p>
     <video width="320" height="240" controls>
                 <source src="github/steal.mp4" type="video/mp4"> 
               </video>
@@ -106,7 +106,7 @@ body {font-family: Arial;}
 
 <div id="contact" class="tabcontent">
   <h3>Contact information</h3>
-  <p>Here is a list of my Contact information. 
+  <p>Here is a list of my contact information. 
     <br/>
     Email: ianfrywaterpolo@gmail.com
     <br/>
@@ -131,8 +131,6 @@ body {font-family: Arial;}
     <br/>
     Email: jonahbdowd@gmail.com
     </p>
-    
-    
     </div>
 <div id="about" class="tabcontent">
   <h3>About the website</h3>
@@ -151,7 +149,7 @@ body {font-family: Arial;}
      <br/>
    50 (M)  BackStroke: 32.20
   <br/>   
-This website was coded by me, Ian Fry. I wanted to have a website where I could post waterpolo highlights, and other information. However I wanted to do it in an interesting way, so I decided to code my own website using Html.</p>
+This website was coded by me, Ian Fry. I wanted to have a website where I could post water polo highlights, and other information. However I wanted to do it in an interesting way, so I decided to code my own website using Html.</p>
 </div>
 
 <!-- below is the main needed stuff that i dont know much about, however i can put my needed information here as its below the tabs!-->

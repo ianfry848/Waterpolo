@@ -108,6 +108,11 @@ body {font-family: Arial;}
 </div>
     <div id="coaches" class="tabcontent">
     <h4>coaches information:</h4>
+    <p> Head Coach Jonah Dowd
+    <br/>
+    Phone# 909-762-2740</p>
+    <br/>
+    email: jonahbdowd@gmail.com</p>
     
     
     </div>

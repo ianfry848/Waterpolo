@@ -138,11 +138,17 @@ body {font-family: Arial;}
   <h3>About the website</h3>
   <p>
    2021 Graduation year
+      <br/>
    Height: 6'1" 
+      <br/>
    Weight: 200(Lbs)
+      <br/>
    WingSpan: 6' 7"
+      <br/>
    50 (ft) Free Time: 24.63
+      <br/>
    100(ft) Free Time: 53.50
+     <br/>
    50(M)  BackStroke: 32.20
   <br/>   
 This website was coded by me, Ian Fry. I wanted to have a website where I could post waterpolo highlights, and other information. However I wanted to do it in an interesting way, so I decided to make code my own website using Html</p>

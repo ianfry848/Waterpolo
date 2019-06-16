@@ -127,11 +127,12 @@ body {font-family: Arial;}
     <h4>Coaches information:</h4>
     <p> Potomac Waterpolo Club Head Coach Jonah Dowd
     <br/>
-    Phone# 909-762-2740</p>
+    Phone# 909-762-2740
     <br/>
     Email: jonahbdowd@gmail.com
     </p>
-    </div>
+   </div>
+   
 <div id="about" class="tabcontent">
   <h3>About the website</h3>
   <p>

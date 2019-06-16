@@ -71,7 +71,8 @@ body {font-family: Arial;}
 
 <div id="Waterpolo" class="tabcontent">
   <h3>Waterpolo</h3>
-  <p>this is a waterpolo website that I have made</p>
+  <p>My name is Ian Fry, I play waterpolo for Potomac Waterpolo in Maryland.</p>
+     <p>My Team:</p> <a href="url">https://seadevils.org/water-polo</a>
   
 </div>
 <div id="Game video" class="tabcontent">

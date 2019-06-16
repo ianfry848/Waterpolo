@@ -62,7 +62,7 @@ body {font-family: Arial;}
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Waterpolo')">Waterpolo</button>
   <button class="tablinks" onclick="openCity(event, 'Game video')">Game video</button>
-  <button class="tablinks" onclick="openCity(event, 'resumue')">Resumue</button>
+  <button class="tablinks" onclick="openCity(event, 'resume')">Resume</button>
   <button class="tablinks" onclick="openCity(event, 'contact')">Contact</button>
   <button class="tablinks" onclick="openCity(event, 'coaches')">Coaches Contact</button>
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
@@ -85,7 +85,7 @@ body {font-family: Arial;}
               </video>
  </div>
 
-<div id="resumue" class="tabcontent">
+<div id="resume" class="tabcontent">
   <h3>Here are my waterpolo acomplishments and events</h3>
   <p></p> 
 </div>

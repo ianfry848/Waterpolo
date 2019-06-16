@@ -132,7 +132,7 @@ body {font-family: Arial;}
     Email: jonahbdowd@gmail.com
     </p>
     
-   <img src="github/jonah.jpeg" alt="Trulli" width="105" height="145">  
+   <img src="github/jonah.jpeg" width="105" height="145">  
    </div>
    
 <div id="about" class="tabcontent">

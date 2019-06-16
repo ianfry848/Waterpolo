@@ -87,7 +87,21 @@ body {font-family: Arial;}
 
 <div id="resume" class="tabcontent">
   <h3>Here are my waterpolo acomplishments and events</h3>
-  <p></p> 
+  <p>
+   2013 - 2018 JOs 
+   <br/>
+    2018 2nd place NJO 16u Invitational 
+   <br/>
+    2013-2016 ODP National Championships NEZ 
+   <br/>
+    2016 USA Waterpolo National Team Selection Camp 
+    <br/>
+    2018 and 2019 North VS. South Challenge Champions in North Carolina Tournament
+    <br/>
+    2017-2018, 2018-2019 High School Swim Team Virginia State Championships Meet
+    <br/>
+    2018 and 2019 George Mason Scolar Athlete 
+   </p> 
 </div>
 
 <div id="contact" class="tabcontent">
@@ -110,18 +124,28 @@ body {font-family: Arial;}
   </p>
 </div>
     <div id="coaches" class="tabcontent">
-    <h4>coaches information:</h4>
-    <p> Head Coach Jonah Dowd
+    <h4>Coaches information:</h4>
+    <p> Potomac Waterpolo Club Head Coach Jonah Dowd
     <br/>
     Phone# 909-762-2740</p>
     <br/>
-    email: jonahbdowd@gmail.com</p>
+    Email: jonahbdowd@gmail.com
+    </p>
     
     
     </div>
 <div id="about" class="tabcontent">
   <h3>About the website</h3>
-  <p>This website was coded by me, Ian Fry. I wanted to have a website where I could post waterpolo highlights, and other information. However I wanted to do it in an interesting way, so I decided to make code my own website using Html</p>
+  <p>
+   2021 Graduation year
+   Height: 6'1" 
+   Weight: 200(Lbs)
+   WingSpan: 6' 7"
+   50 (ft) Free Time: 24.63
+   100(ft) Free Time: 53.50
+   50(M)  BackStroke: 32.20
+  <br/>   
+This website was coded by me, Ian Fry. I wanted to have a website where I could post waterpolo highlights, and other information. However I wanted to do it in an interesting way, so I decided to make code my own website using Html</p>
 </div>
 
 <!-- below is the main needed stuff that i dont know much about, however i can put my needed information here as its below the tabs!-->

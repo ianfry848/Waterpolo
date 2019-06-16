@@ -151,7 +151,7 @@ body {font-family: Arial;}
      <br/>
    50 (M)  BackStroke: 32.20
   <br/>   
-This website was coded by me, Ian Fry. I wanted to have a website where I could post waterpolo highlights, and other information. However I wanted to do it in an interesting way, so I decided to code my own website using Html</p>
+This website was coded by me, Ian Fry. I wanted to have a website where I could post waterpolo highlights, and other information. However I wanted to do it in an interesting way, so I decided to code my own website using Html.</p>
 </div>
 
 <!-- below is the main needed stuff that i dont know much about, however i can put my needed information here as its below the tabs!-->

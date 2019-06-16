@@ -56,7 +56,7 @@ body {font-family: Arial;}
 </head>
 <body>
 
-<h2>Ian's Water polo Information</h2>
+<h2>Ian's Water Polo Information</h2>
 
 
 <div class="tab">

@@ -56,11 +56,11 @@ body {font-family: Arial;}
 </head>
 <body>
 
-<h2>Ian's Waterpolo Information</h2>
+<h2>Ian's Water polo Information</h2>
 
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Waterpolo')">Waterpolo</button>
+  <button class="tablinks" onclick="openCity(event, 'Waterpolo')">Water Polo</button>
   <button class="tablinks" onclick="openCity(event, 'Game video')">Game video</button>
   <button class="tablinks" onclick="openCity(event, 'resume')">Resume</button>
   <button class="tablinks" onclick="openCity(event, 'contact')">Contact</button>
@@ -70,8 +70,8 @@ body {font-family: Arial;}
 
 
 <div id="Waterpolo" class="tabcontent">
-  <h3>Waterpolo</h3>
-  <p>My name is Ian Fry, I play waterpolo for Potomac Waterpolo in Maryland.</p>
+  <h3>Water polo</h3>
+  <p>My name is Ian Fry, I play water polo for Potomac Water Polo in Maryland.</p>
     <p><a href="https://seadevils.org/water-polo" target="_blank">My Team</a></p>
   
 </div>
@@ -86,7 +86,7 @@ body {font-family: Arial;}
  </div>
 
 <div id="resume" class="tabcontent">
-  <h3>Here are my waterpolo acomplishments and events</h3>
+  <h3>Here are my Water Polo acomplishments and events</h3>
   <p>
    2013 - 2018 JOs 
    <br/>

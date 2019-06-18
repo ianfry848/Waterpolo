@@ -78,11 +78,11 @@ body {font-family: Arial;}
 <div id="Game video" class="tabcontent">
     <p>Here is video of me at the 2018 Junior Olympic games<br/>Here are some of my game highlights:</p>
     
-   <iframe src="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA?view_as=subscriber"></iframe>
+   <iframe src="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA?"></iframe>
     
-    <video width="320" height="240" controls>
+   <!-- <video width="320" height="240" controls>
                 <source src="github/steal.mp4" type="video/mp4"> 
-              </video>
+              </video>--!>
  </div>
 
 <div id="resume" class="tabcontent">
@@ -155,7 +155,7 @@ body {font-family: Arial;}
 This website was coded by me, Ian Fry. I wanted to have a website where I could post water polo highlights, and other information. However I wanted to do it in an interesting way, so I decided to code my own website using Html.</p>
     
   <img src="github/win.png" width="105" height="145">  
-  <img src="github/team.jpg" width="105" height="145">  
+  <img src="github/team.JPG" width="105" height="145">  
 </div>
 
 <!-- below is the main needed stuff that i dont know much about, however i can put my needed information here as its below the tabs!-->

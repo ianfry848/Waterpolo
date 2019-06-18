@@ -136,7 +136,7 @@ body {font-family: Arial;}
    </div>
    
 <div id="about" class="tabcontent">
-  <h3>About the website</h3>
+  <h3>About</h3>
   <p>
    2021 Graduation year
       <br/>
@@ -153,6 +153,9 @@ body {font-family: Arial;}
    50 (M)  BackStroke: 32.20
   <br/>   
 This website was coded by me, Ian Fry. I wanted to have a website where I could post water polo highlights, and other information. However I wanted to do it in an interesting way, so I decided to code my own website using Html.</p>
+    
+  <img src="github/win.png" width="105" height="145">  
+  <img src="github/team.jpg" width="105" height="145">  
 </div>
 
 <!-- below is the main needed stuff that i dont know much about, however i can put my needed information here as its below the tabs!-->

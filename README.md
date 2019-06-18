@@ -78,7 +78,7 @@ body {font-family: Arial;}
 <div id="Game video" class="tabcontent">
     <p>Here is video of me at the 2018 Junior Olympic games<br/>Here are some of my game highlights:</p>
     
-   <iframe src="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA?"></iframe>
+   <iframe src="http://www.youtube.com/UCvnw8g9ZKqtqCGTTIsE__TA?"></iframe> 
     
    <!-- <video width="320" height="240" controls>
                 <source src="github/steal.mp4" type="video/mp4"> 

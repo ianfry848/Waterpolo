@@ -77,11 +77,11 @@ body {font-family: Arial;}
 </div>
 <div id="Game video" class="tabcontent">
     <p>Here is video of me at the 2018 Junior Olympic games<br/>Here are some of my game highlights:</p>
+    
+   <iframe src="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA?view_as=subscriber"></iframe>
+    
     <video width="320" height="240" controls>
                 <source src="github/steal.mp4" type="video/mp4"> 
-              </video>
-    <video width="320" height="240" controls>
-                <source src="github/shots.mp4" type="video/mp4"> 
               </video>
  </div>
 

@@ -99,7 +99,7 @@ body {font-family: Arial;}
     <br/>
     2017-2018, 2018-2019 High School Swim Team Virginia State Championships Meet
     <br/>
-    2018 and 2019 George Mason Scolar Athlete 
+    2018 and 2019 George Mason Scholar Athlete 
    </p> 
 </div>
 

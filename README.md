@@ -80,9 +80,8 @@ body {font-family: Arial;}
     
    <iframe src="http://www.youtube.com/UCvnw8g9ZKqtqCGTTIsE__TA"></iframe> 
     
-   <!-- <video width="320" height="240" controls>
-                <source src="github/steal.mp4" type="video/mp4"> 
-              </video>--!>
+   <p><a href="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA" target="_blank">If link doesnt work click here</a></p>
+   
  </div>
 
 <div id="resume" class="tabcontent">

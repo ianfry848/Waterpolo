@@ -77,7 +77,7 @@ body {font-family: Arial;}
 </div>
 <div id="Game video" class="tabcontent">
     
-       <p>Here is my youtube channel with game fotage</p>
+   <p>Here is my youtube channel with game footage</p>
    <iframe width="560" height="315" src="https://www.youtube.com/UCvnw8g9ZKqtqCGTTIsE__TA" frameborder="0" allowfullscreen></iframe>
   <!-- https://www.youtube.com/embeded/UCvnw8g9ZKqtqCGTTIsE__TA-->
     

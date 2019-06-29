@@ -78,10 +78,11 @@ body {font-family: Arial;}
 <div id="Game video" class="tabcontent">
     
    <p>Here is my youtube channel with game footage</p>
-   <iframe width="560" height="315" src="https://www.youtube.com/UCvnw8g9ZKqtqCGTTIsE__TA" frameborder="0" allowfullscreen></iframe>
-  <!-- https://www.youtube.com/embeded/UCvnw8g9ZKqtqCGTTIsE__TA-->
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/qQQKj9dj0ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-Mx4lNr3P-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-   <p><a href="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA" target="_blank">If it doesn't work click here</a></p>
+   <p><a href="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA" target="_blank">If the videos don't work click here</a></p>
    
  </div>
 

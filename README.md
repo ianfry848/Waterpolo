@@ -61,10 +61,10 @@ body {font-family: Arial;}
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Waterpolo')">Water Polo</button>
-  <button class="tablinks" onclick="openCity(event, 'Game video')">Game video</button>
+  <button class="tablinks" onclick="openCity(event, 'Game Video')">Game Video</button>
   <button class="tablinks" onclick="openCity(event, 'resume')">Resume</button>
   <button class="tablinks" onclick="openCity(event, 'contact')">Contact</button>
-  <button class="tablinks" onclick="openCity(event, 'coaches')">Coaches Contact</button>
+  <button class="tablinks" onclick="openCity(event, 'coaches')">Coach's Contact</button>
   <button class="tablinks" onclick="openCity(event, 'about')">About</button>
 </div>
 
@@ -74,38 +74,43 @@ body {font-family: Arial;}
   <p>My name is Ian Fry, I play water polo for <a href="https://seadevils.org/water-polo" target="_blank">Potomac Water Polo</a> in Maryland.</p>
     
    <img src="github/me.JPG" width="600" height="1071">  
-
-   <p><a href="https://seadevils.org/water-polo" target="_blank">My Team</a></p>
   
 </div>
-<div id="Game video" class="tabcontent">
+<div id="Game Video" class="tabcontent">
     
    <p>Here is my youtube channel with game footage</p>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/qQQKj9dj0ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-Mx4lNr3P-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-   <p><a href="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA" target="_blank">If the videos don't work click here</a></p>
+   <p><a href="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA" target="_blank">If the videos do not work click here</a></p>
    
  </div>
 
 <div id="resume" class="tabcontent">
-  <h3>Here are my Water Polo acomplishments and events</h3>
+  <h3>Here are my Water Polo accomplishments and events</h3>
   <p>
    2013 - 2018 JOs 
    <br/>
+    <br/>
     2018 2nd place NJO 16u Invitational 
    <br/>
+    <br/>
     2013-2016 ODP National Championships NEZ 
    <br/>
+     <br/>
     2017 USA Water Polo National Team Selection Camp 
-    </br>
+   <br/>
+    <br/>
     2017 USA Water Polo Futures camp at Olympic Training Center, Colorado Springs, Co
     <br/>
+     <br/>
     2018 and 2019 North VS. South Challenge Champions in North Carolina Tournament
     <br/>
+      <br/>
     2017-2018, 2018-2019 High School Swim Team Virginia State Championships Meet
     <br/>
+      <br/>
     2018 and 2019 George Mason Scholar Athlete 
    </p> 
 </div>

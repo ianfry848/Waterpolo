@@ -98,9 +98,9 @@ body {font-family: Arial;}
    <br/>
     2013-2016 ODP National Championships NEZ 
    <br/>
-    2016 USA Water Polo National Team Selection Camp 
+    2017 USA Water Polo National Team Selection Camp 
     </br>
-    2016 USA Water Polo Futures camp at Olympic Training Center, Colorado Springs, Co
+    2017 USA Water Polo Futures camp at Olympic Training Center, Colorado Springs, Co
     <br/>
     2018 and 2019 North VS. South Challenge Champions in North Carolina Tournament
     <br/>

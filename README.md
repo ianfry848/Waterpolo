@@ -152,9 +152,9 @@ body {font-family: Arial;}
       <br/>
    Wing Span: 6' 7"
       <br/>
-   50 (ft) Free Time: 24.63
+   50 (Yards) Free Time: 24.63
       <br/>
-   100 (ft) Free Time: 53.50
+   100 (Yards) Free Time: 53.50
      <br/>
    50 (M)  BackStroke: 32.20
   <br/>   

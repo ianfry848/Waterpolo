@@ -72,7 +72,10 @@ body {font-family: Arial;}
 <div id="Waterpolo" class="tabcontent">
   <h3>Water polo</h3>
   <p>My name is Ian Fry, I play water polo for Potomac Water Polo in Maryland.</p>
-    <p><a href="https://seadevils.org/water-polo" target="_blank">My Team</a></p>
+    
+   <img src="github/me.JPG" width="767" height="575">  
+
+   <p><a href="https://seadevils.org/water-polo" target="_blank">My Team</a></p>
   
 </div>
 <div id="Game video" class="tabcontent">

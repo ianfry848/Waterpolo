@@ -148,7 +148,7 @@ body {font-family: Arial;}
       <br/>
    Height: 6'1" 
       <br/>
-   Weight: 200 (Lbs)
+   Weight: 200 (lbs)
       <br/>
    Wing Span: 6' 7"
       <br/>

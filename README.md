@@ -73,7 +73,7 @@ body {font-family: Arial;}
   <h3>Water polo</h3>
   <p>My name is Ian Fry, I play water polo for Potomac Water Polo in Maryland.</p>
     
-   <img src="github/me.JPG" width="767" height="575">  
+   <img src="github/me.JPG" width="600" height="1071">  
 
    <p><a href="https://seadevils.org/water-polo" target="_blank">My Team</a></p>
   

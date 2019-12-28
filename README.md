@@ -80,7 +80,7 @@ body {font-family: Arial;}
     
    <p>Here is my youtube channel with game footage</p>
    
-   <p>To better see me play, using 1080p quality should show my cap(linked in video title) number better</p>
+   <p>To better see me play, using 1080p quality should show my cap number(linked in video title) better</p>
    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdgHtOY3wc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

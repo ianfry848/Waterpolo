@@ -82,6 +82,11 @@ body {font-family: Arial;}
    <iframe width="560" height="315" src="https://youtu.be/embed/VY8PNuTFQgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   <iframe width="560" height="315" src="https://youtu.be/embed/CdgHtOY3wc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <iframe width="560" height="315" src="https://youtu.be/embed/Pj26RuiIsNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+  <iframe width="560" height="315" src="https://youtu.be/embed/ZICGYFYu6Ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
     
    <p><a href="https://www.youtube.com/channel/UCvnw8g9ZKqtqCGTTIsE__TA" target="_blank">Click here for more video, or if link doesn't work</a></p>
    

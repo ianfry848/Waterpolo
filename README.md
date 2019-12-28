@@ -81,13 +81,13 @@ body {font-family: Arial;}
    <p>Here is my youtube channel with game footage</p>
    
    <p>To better see me play, using 1080p quality should show my cap number(linked in video title) better</p>
-   
+  
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Pj26RuiIsNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdgHtOY3wc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VY8PNuTFQgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pj26RuiIsNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZICGYFYu6Ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   

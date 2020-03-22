@@ -152,7 +152,7 @@ body {font-family: Arial;}
     Email: @gmail.com
     </p>
     
-   <img src="github/miras.jpg" width="105" height="145">  
+   <img src="github/miras.jpg" width="150" height="145">  
    </div>
    
 <div id="about" class="tabcontent">

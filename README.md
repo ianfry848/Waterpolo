@@ -145,14 +145,14 @@ body {font-family: Arial;}
 </div>
     <div id="coaches" class="tabcontent">
     <h4>Coaches information:</h4>
-    <p> Potomac Waterpolo Club Head Coach Jonah Dowd
+    <p> Capital Water Polo Club Head Coach Miras Jelic
     <br/>
-    Phone# 909-762-2740
+    Phone# 
     <br/>
-    Email: jonahbdowd@gmail.com
+    Email: @gmail.com
     </p>
     
-   <img src="github/jonah.jpeg" width="105" height="145">  
+   <img src="github/miras.jpg" width="105" height="145">  
    </div>
    
 <div id="about" class="tabcontent">
@@ -166,11 +166,11 @@ body {font-family: Arial;}
       <br/>
    Wing Span: 6' 7"
       <br/>
-   50 (Yards) Free Time: 24.63
+   50 (Yards) Free Time: 23.46
       <br/>
-   100 (Yards) Free Time: 53.50
+   100 (Yards) Free Time: 52.52
      <br/>
-   50 (M)  BackStroke: 32.20
+   100 (M)  BackStroke: 58.40
   <br/>   
 This website was coded by me, Ian Fry. I wanted to have a website where I could post water polo highlights, and other information. However I wanted to do it in an interesting way, so I decided to code my own website using Html.</p>
     
